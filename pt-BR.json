@@ -104,36 +104,36 @@
         },
         "labels": {
             "cheat-indicator-label": "Indicador de trapaça",
-            "noclip-only-label": "Noclip Only",
-            "none-added-hint": "No labels added.\nYou can <cc>add</c> labels with the\n<cl>buttons</c> on the <cp>right</c> side."
+            "noclip-only-label": "Apenas NoClip",
+            "none-added-hint": "Nenhuma etiqueta adicionada.\nVocê pode <cc>adicionar </c> etiquetas com os\n<cl>botões</c> no canto do topo <cp>direito</c>"
         },
         "search-tab": {
-            "placeholder": "Search a mod..."
+            "placeholder": "Procurar um mod..."
         },
         "setup-rotation": {
-            "title": "Edit Rotation",
-            "input-placeholder": "Rotation",
-            "input-title": "Rotation"
+            "title": "Editar Rotação",
+            "input-placeholder": "Rotação",
+            "input-title": "Rotação"
         },
         "setup-shortcut": {
-            "title": "Edit Shortcut",
-            "in-menu": "In Menu",
-            "in-game": "In Game",
-            "in-game-pause": "In Pause",
-            "in-editor": "In Editor",
-            "in-editor-pause": "In Editor Pause",
-            "scale-title": "Scale",
-            "opacity-title": "Opacity",
-            "enabled-title": "Enabled",
-            "movable-title": "Movable"
+            "title": "Editar Atalho",
+            "in-menu": "No Menu",
+            "in-game": "Em Jogo",
+            "in-game-pause": "No Menu de Pausa",
+            "in-editor": "No Editor",
+            "in-editor-pause": "No Menu de pausa do Editor",
+            "scale-title": "Tamanho",
+            "opacity-title": "Opacidade",
+            "enabled-title": "Ativado",
+            "movable-title": "Movimentável"
         },
         "select-item": {
-            "title-generic": "Select Item",
-            "title-background": "Select Shortcut Background",
-            "title-icon": "Select Shortcut Icon"
+            "title-generic": "Selecionar Item",
+            "title-background": "Selecionar Fundo do Atalho",
+            "title-icon": "Selecionar ícone do Atalho"
         },
         "animation": {
-            "none": "None",
+            "none": "Nenhum",
             "from-top": "From Top",
             "from-bottom": "From Bottom",
             "from-left": "From Left",
